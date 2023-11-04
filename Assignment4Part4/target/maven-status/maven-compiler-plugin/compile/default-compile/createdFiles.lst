@@ -1,0 +1,5 @@
+com\neu\assignment4part4\Model\MovieDatabase.class
+com\neu\assignment4part4\dao\DatabaseConnection.class
+com\neu\assignment4part4\dao\MovieDatabaseJDBCDao.class
+com\neu\assignment4part4\Controller\NewMovieController.class
+com\neu\assignment4part4\Controller\SearchMoviesController.class

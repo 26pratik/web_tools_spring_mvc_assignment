@@ -1,0 +1,2 @@
+com.neu.assignment4part6.controller.CartController=org.springframework.stereotype.Component
+com.neu.assignment4part6.controller.CartViewController=org.springframework.stereotype.Component
